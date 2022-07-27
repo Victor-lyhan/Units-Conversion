@@ -9,8 +9,28 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView {
+            VStack {
+                Text("Units Convertor")
+                    .fontWeight(.bold)
+                    .font(.title)
+                    .padding()
+                Form{
+                    NavigationLink("Temperature",destination: SwiftUIView_temperature(phrase:"temperature type"))
+                        .foregroundColor(.blue)
+                        .padding(10)
+                    NavigationLink("Length", destination: SwiftUIView_Length(phrase: "length type"))
+                        .foregroundColor(.blue)
+                        .padding(10)
+                    NavigationLink("Mass",destination: SwiftUIView_Mass(phrase:"Mass type"))
+                        .foregroundColor(.blue)
+                        .padding(10)
+                    NavigationLink("Volume",destination: SwiftUIView_Volume(phrase:"Volume type"))
+                        .foregroundColor(.blue)
+                        .padding(10)
+                }
+            }
+        }
     }
 }
 

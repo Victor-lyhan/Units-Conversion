@@ -11,6 +11,19 @@
 		68557486288B325B00DB8D61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68557485288B325B00DB8D61 /* ContentView.swift */; };
 		68557488288B325C00DB8D61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68557487288B325C00DB8D61 /* Assets.xcassets */; };
 		6855748B288B325C00DB8D61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6855748A288B325C00DB8D61 /* Preview Assets.xcassets */; };
+		68557492288B35A400DB8D61 /* SwiftUIView01-temperature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68557491288B35A400DB8D61 /* SwiftUIView01-temperature.swift */; };
+		68557494288CCCEA00DB8D61 /* SwiftUIView02-temperature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68557493288CCCEA00DB8D61 /* SwiftUIView02-temperature2.swift */; };
+		6855749C288DF4C600DB8D61 /* SwiftUIView-temperaturePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6855749B288DF4C600DB8D61 /* SwiftUIView-temperaturePicker.swift */; };
+		6855749E288DF4F900DB8D61 /* SwiftUIView03-length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6855749D288DF4F900DB8D61 /* SwiftUIView03-length.swift */; };
+		685574A0288DF74B00DB8D61 /* SwiftUIView04-length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6855749F288DF74B00DB8D61 /* SwiftUIView04-length.swift */; };
+		685574A2288DF97100DB8D61 /* SwiftUIView05-length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685574A1288DF97100DB8D61 /* SwiftUIView05-length.swift */; };
+		685574A4288DFC3000DB8D61 /* SwiftUIView06-mass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685574A3288DFC3000DB8D61 /* SwiftUIView06-mass.swift */; };
+		685574A6288DFD7600DB8D61 /* SwiftUIView07-mass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685574A5288DFD7600DB8D61 /* SwiftUIView07-mass.swift */; };
+		68C60A24288EDAE40018A2EE /* SwiftUIView-lengthPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C60A23288EDAE40018A2EE /* SwiftUIView-lengthPicker.swift */; };
+		68C60A26288EE13F0018A2EE /* SwiftUIView-massPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C60A25288EE13F0018A2EE /* SwiftUIView-massPicker.swift */; };
+		68C60A64288F9E7B0018A2EE /* SwiftUIView-volumePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C60A63288F9E7B0018A2EE /* SwiftUIView-volumePicker.swift */; };
+		68C60A66288FA0110018A2EE /* SwiftUIView08-volume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C60A65288FA0110018A2EE /* SwiftUIView08-volume.swift */; };
+		68C60A68288FA1720018A2EE /* SwiftUIView09-volume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C60A67288FA1720018A2EE /* SwiftUIView09-volume.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		68557485288B325B00DB8D61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		68557487288B325C00DB8D61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6855748A288B325C00DB8D61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		68557491288B35A400DB8D61 /* SwiftUIView01-temperature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView01-temperature.swift"; sourceTree = "<group>"; };
+		68557493288CCCEA00DB8D61 /* SwiftUIView02-temperature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView02-temperature2.swift"; sourceTree = "<group>"; };
+		6855749B288DF4C600DB8D61 /* SwiftUIView-temperaturePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView-temperaturePicker.swift"; sourceTree = "<group>"; };
+		6855749D288DF4F900DB8D61 /* SwiftUIView03-length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView03-length.swift"; sourceTree = "<group>"; };
+		6855749F288DF74B00DB8D61 /* SwiftUIView04-length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView04-length.swift"; sourceTree = "<group>"; };
+		685574A1288DF97100DB8D61 /* SwiftUIView05-length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView05-length.swift"; sourceTree = "<group>"; };
+		685574A3288DFC3000DB8D61 /* SwiftUIView06-mass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView06-mass.swift"; sourceTree = "<group>"; };
+		685574A5288DFD7600DB8D61 /* SwiftUIView07-mass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView07-mass.swift"; sourceTree = "<group>"; };
+		68C60A23288EDAE40018A2EE /* SwiftUIView-lengthPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView-lengthPicker.swift"; sourceTree = "<group>"; };
+		68C60A25288EE13F0018A2EE /* SwiftUIView-massPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView-massPicker.swift"; sourceTree = "<group>"; };
+		68C60A63288F9E7B0018A2EE /* SwiftUIView-volumePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView-volumePicker.swift"; sourceTree = "<group>"; };
+		68C60A65288FA0110018A2EE /* SwiftUIView08-volume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView08-volume.swift"; sourceTree = "<group>"; };
+		68C60A67288FA1720018A2EE /* SwiftUIView09-volume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView09-volume.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +79,19 @@
 			children = (
 				68557483288B325B00DB8D61 /* Units_ConversionApp.swift */,
 				68557485288B325B00DB8D61 /* ContentView.swift */,
+				6855749B288DF4C600DB8D61 /* SwiftUIView-temperaturePicker.swift */,
+				68557493288CCCEA00DB8D61 /* SwiftUIView02-temperature2.swift */,
+				68557491288B35A400DB8D61 /* SwiftUIView01-temperature.swift */,
+				68C60A23288EDAE40018A2EE /* SwiftUIView-lengthPicker.swift */,
+				6855749D288DF4F900DB8D61 /* SwiftUIView03-length.swift */,
+				6855749F288DF74B00DB8D61 /* SwiftUIView04-length.swift */,
+				685574A1288DF97100DB8D61 /* SwiftUIView05-length.swift */,
+				68C60A25288EE13F0018A2EE /* SwiftUIView-massPicker.swift */,
+				685574A3288DFC3000DB8D61 /* SwiftUIView06-mass.swift */,
+				685574A5288DFD7600DB8D61 /* SwiftUIView07-mass.swift */,
+				68C60A63288F9E7B0018A2EE /* SwiftUIView-volumePicker.swift */,
+				68C60A65288FA0110018A2EE /* SwiftUIView08-volume.swift */,
+				68C60A67288FA1720018A2EE /* SwiftUIView09-volume.swift */,
 				68557487288B325C00DB8D61 /* Assets.xcassets */,
 				68557489288B325C00DB8D61 /* Preview Content */,
 			);
@@ -137,8 +176,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68C60A66288FA0110018A2EE /* SwiftUIView08-volume.swift in Sources */,
+				68C60A26288EE13F0018A2EE /* SwiftUIView-massPicker.swift in Sources */,
+				68557494288CCCEA00DB8D61 /* SwiftUIView02-temperature2.swift in Sources */,
+				685574A0288DF74B00DB8D61 /* SwiftUIView04-length.swift in Sources */,
 				68557486288B325B00DB8D61 /* ContentView.swift in Sources */,
+				685574A4288DFC3000DB8D61 /* SwiftUIView06-mass.swift in Sources */,
+				6855749C288DF4C600DB8D61 /* SwiftUIView-temperaturePicker.swift in Sources */,
+				68C60A68288FA1720018A2EE /* SwiftUIView09-volume.swift in Sources */,
+				68557492288B35A400DB8D61 /* SwiftUIView01-temperature.swift in Sources */,
+				6855749E288DF4F900DB8D61 /* SwiftUIView03-length.swift in Sources */,
+				68C60A64288F9E7B0018A2EE /* SwiftUIView-volumePicker.swift in Sources */,
 				68557484288B325B00DB8D61 /* Units_ConversionApp.swift in Sources */,
+				68C60A24288EDAE40018A2EE /* SwiftUIView-lengthPicker.swift in Sources */,
+				685574A2288DF97100DB8D61 /* SwiftUIView05-length.swift in Sources */,
+				685574A6288DFD7600DB8D61 /* SwiftUIView07-mass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
